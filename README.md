@@ -1,5 +1,5 @@
-# JP Morgan Virtual Internship
-This virtual internship was under JP Morgan Chase and Co. on Excel Skills by Forage.
+# Account-Sales-and-Trends-Data-Analysis
+
 
 ### Problem Statment
 The Sales Team wants to know how their unit sales are doing and how can they improve. 
